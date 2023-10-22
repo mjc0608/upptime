@@ -7,17 +7,8 @@ sites:
     url: https://jcma.me
   - name: Blog
     url: https://blog.jcma.me
-  - name: SSO Service
-    url: https://auth.it.jcma.me
   - name: Vaultwarden
     url: https://vault.jcma.me
-  - name: Headscale
-    url: https://vpn.it.jcma.me/oidc/callback
-    expectedStatusCodes:
-      - 200
-      - 400
-  - name: Headscale UI
-    url: https://vpn.it.jcma.me/manager
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
