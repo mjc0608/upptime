@@ -9,6 +9,10 @@ sites:
     url: https://blog.jcma.me
   - name: Vaultwarden
     url: https://vault.jcma.me
+  - name: SSO Service
+    url: https://auth.it.jcma.me
+  - name: Gitea
+    url: https://gitea.it.jcma.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
