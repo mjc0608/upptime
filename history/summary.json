@@ -61,10 +61,10 @@
     "url": "https://auth.it.jcma.me",
     "icon": "https://icons.duckduckgo.com/ip3/auth.it.jcma.me.ico",
     "slug": "sso-service",
-    "status": "up",
+    "status": "down",
     "uptime": "95.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.57%",
     "time": 808,
@@ -73,6 +73,7 @@
     "timeMonth": 980,
     "timeYear": 808,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-10-03": 34,
       "2023-09-29": 198,
       "2023-09-28": 350,
@@ -92,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.it.jcma.me.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 676,
     "timeDay": 3629,
     "timeWeek": 1528,
     "timeMonth": 805,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 7
     }
   }
 ]
